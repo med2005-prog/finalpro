@@ -1,49 +1,41 @@
-# Final Project
+# Food Customization System - My Food, My Way
 
-This is the repository for the Final Project.
+هذا المشروع عبارة عن منصة إلكترونية متطورة تمنح المستخدمين الحرية الكاملة في تخصيص طلبات الطعام الخاصة بهم.
 
-## Overview
+## فكرة المشروع (Project Concept)
 
-A comprehensive project focused on delivering a high-quality solution for the specified requirements.
+المشروع هو موقع إلكتروني يركز على **التخصيص الكامل (Full Customization)** للوجبات. بدلاً من اختيار وجبات جاهزة فقط، يتيح النظام للمستخدم بناء وجبته من الصفر.
 
-## Features
+**مثال (البيتزا):**
+- اختيار نوع العجين.
+- اختيار الحجم.
+- تحديد المكونات والإضافات بدقة حسب الرغبة.
 
-- **Responsive Design**: Optimized for all devices.
-- **Modern UI**: Built with the latest design principles.
-- **Performance**: Fast and efficient execution.
+النظام لا يقتصر على البيتزا فقط، بل مصمم ليشمل **جميع أنواع المأكولات** (برجر، سلطات، أطباق رئيسية، إلخ)، حيث يمكن للمستخدم التحكم في كل تفاصيل وجبته.
 
-## Getting Started
+---
 
-### Prerequisites
+## Features | المميزات
 
-- Node.js (v18 or higher)
-- npm or yarn
+- **Custom Build**: بناء الوجبة خطوة بخطوة.
+- **Dynamic Pricing**: تحديث السعر تلقائياً بناءً على الإضافات المختارة.
+- **Multi-Category Support**: دعم مختلف أصناف الطعام وليس البيتزا فقط.
+- **User-Friendly Interface**: واجهة مستخدم سهلة وبديهية لعملية التخصيص.
+- **Responsive Design**: يعمل بشكل ممتاز على الهواتف وأجهزة الكمبيوتر.
 
-### Installation
+## Tech Stack | التقنيات المستخدمة
 
-1. Clone the repository:
+- **Frontend**: HTML5, CSS3, JavaScript (Vanilla or Framework).
+- **Backend**: (To be implemented).
+- **Database**: (To be implemented).
+
+## Getting Started | البداية
+
+1. **Clone the repository**:
    ```bash
    git clone https://github.com/med2005-prog/finalpro.git
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd finalpro
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-## Usage
-
-To start the application, run:
-```bash
-npm start
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+2. **Open index.html** in your browser to see the prototype.
 
 ## License
 
